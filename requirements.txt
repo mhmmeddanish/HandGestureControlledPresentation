@@ -1,0 +1,4 @@
+cvzone
+os
+cv2
+numpy
